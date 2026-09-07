@@ -1,0 +1,28 @@
+NATIONAL DISASTER MANAGEMENT AUTHORITY (NDMA)
+STANDARD OPERATING PROCEDURE: MONSOON FLOOD RELOCATION & SHELTER ALLOCATION
+Document Ref: NDMA/SOP/FLD-2024/09 | Classification: Official Guidance
+
+1. TRIGGER CRITERIA FOR IMMEDIATE MANDATORY EVACUATION
+When any monitored habitation meets any of the following conditions, the Incident Commander must issue an immediate evacuation order:
+a) 24-hour localized rainfall exceeds 120 mm in river basin catchments.
+b) River proximity is under 300 meters and upstream river water level has risen by >1.5 meters.
+c) Composite Habitation Risk Score calculated by SURAKSHA-AI exceeds 80 (CRITICAL tier) or exceeds 60 (VERY HIGH tier) with over 20% vulnerable population.
+d) Primary access route has high probability of submerged bridge culverts within 3 hours.
+
+2. VULNERABLE POPULATION TRIAGE & PRIORITY
+During evacuation execution, relocation prioritization must strictly adhere to the Triple-Tier Triage Protocol:
+- Priority 1 (Immediate - Phase 1): Bedridden individuals, patients requiring dialysis/oxygen, pregnant mothers (3rd trimester), unaccompanied minors, and elderly individuals aged >70.
+- Priority 2 (Phase 2): Families with children under age 10 and persons with moderate mobility impairments.
+- Priority 3 (Phase 3): General able-bodied adult population and designated habitation property security volunteers.
+
+3. SHELTER SELECTION & CARRYING CAPACITY PROTOCOLS
+a) Proximity vs Safety Rule: Never allocate a habitation to a shelter located in a High or Critical hazard exposure zone, regardless of how close it is.
+b) 80% Buffer Rule: Shelters should ideally not be planned beyond 85% nominal capacity to reserve space for emergency influx and medical isolation wards.
+c) Multi-Shelter Overflow Partitioning: If the total affected population of a critical habitation exceeds the available capacity of the closest safe shelter, the Incident Commander must activate the Multi-Shelter Knapsack Protocol:
+   - Partition 1 fills Shelter 1 up to its remaining safe quota.
+   - Partition 2 is routed via secondary arterial roads to the next highest ranked shelter.
+   - Separate transport manifests and bus convoys must be assigned with distinct beacon markers.
+
+4. ROAD INUNDATION AND CONVOY SAFETY
+- No emergency evacuation convoy of heavy passenger vehicles may traverse roads with standing water exceeding 0.3 meters or flow velocity exceeding 1.2 m/s.
+- If primary arterial road is blocked, convoys must divert to pre-computed secondary highland bypass corridors.

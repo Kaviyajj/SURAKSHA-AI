@@ -1,0 +1,21 @@
+NATIONAL DISASTER MANAGEMENT AUTHORITY & GEOLOGICAL SURVEY GUIDELINES
+LANDSLIDE EARLY ACTION, HILLSIDE EVACUATION & SAFE CORRIDOR DIRECTIVES
+Document Ref: NDMA/GEO/LS-2024/14 | Classification: Official Guidance
+
+1. HILLSIDE RISK ASSESSMENT THRESHOLDS
+Habitations located in hilly terrain (slopes exceeding 25 degrees) are subject to sudden debris flow and toe failure under high rainfall.
+- Moderate Alert: Cumulative 48-hour rainfall exceeds 90 mm on slopes > 20 degrees.
+- Critical Relocation Alert: Rainfall exceeds 130 mm with slope > 30 degrees, or historical slope reactivation indices exceed 70%.
+- Habitations in deep valleys with single-road access must be pre-emptively evacuated during daylight hours to prevent night stranding due to road slippage.
+
+2. NIGHTTIME EVACUATION PROHIBITION
+In steep mountain sectors (elevation > 800m), night evacuations across unlit serpentine roads carry a 400% higher fatality risk from falling boulders.
+- Authorities must order pre-emptive evacuation before 17:00 hours whenever What-If simulations predict rainfall escalation above 20%.
+
+3. SAFE RELOCATION SHELTER CRITERIA IN HILL DISTRICTS
+- Relief camps must NOT be sited at the base of slopes steeper than 15 degrees or in historical alluvial fan runout zones.
+- Preferred sites include reinforced multi-story concrete educational institutions, district indoor sports arenas, and hilltop masonry community complexes with independent backup generators and water filtration units.
+
+4. LOGISTICS & ROUTE DEPLOYMENT
+- 4WD mini-buses and state transport utility vehicles must be prioritized for hill corridors where turning radius is constrained.
+- If a main ghat road segment is flagged as Blocked or Impassable, traffic control posts at both ends must immediately divert all convoys to designated Ridge-line routes.

@@ -1,0 +1,18 @@
+NDMA NATIONAL RELIEF & REHABILITATION COMMISSION
+STANDARD OPERATING PROCEDURE: RELIEF CAMP MANAGEMENT, CARRYING CAPACITY & LOGISTICS
+Document Ref: NDMA/SHELTER-MGMT/2024/11 | Classification: Operational Directive
+
+1. MINIMUM STANDARDS IN RELIEF CAMPS (SPHERE STANDARDS ADAPTATION)
+- Covered Living Space: Minimum 3.5 square meters per person in temperate/hill climates.
+- Water Supply: Minimum 15 liters of safe drinking and domestic water per person per day.
+- Sanitation: 1 toilet stall per 20 persons, segregated by gender with functional lighting.
+- Power Supply: Dedicated diesel backup generator (minimum 25 kVA) with 72-hour fuel reserve.
+
+2. CARRYING CAPACITY THRESHOLDS & ESCALATION RULES
+- Nominal Capacity: Maximum safe occupants under normal humanitarian standards.
+- Surge Overcapacity (Red Alert Phase): Can temporarily expand up to 115% of nominal capacity for 24-48 hours during extreme mass evacuation, provided auxiliary ventilation and mobile sanitation trucks are stationed.
+- Mandatory Re-routing Trigger: When a shelter reaches 90% capacity, automated dispatch systems must switch new incoming evacuation buses to the next highest ranked overflow shelter.
+
+3. MEDICAL & SANITARY PROXIMITY
+- Relief camps located within 3 km of a functioning District or Taluk Hospital receive top suitability ranking.
+- If distance to medical facility exceeds 5 km, an on-site 24x7 medical triage officer and 2 mobile ambulances must be permanently stationed at the camp.
