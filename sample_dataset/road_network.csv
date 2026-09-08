@@ -1,0 +1,11 @@
+id,name,road_type,start_node,end_node,length_km,base_speed_kmh,is_blocked,blockage_reason,road_condition
+1,NH-181 Ooty - Coonoor - Mettupalayam Highway,National Highway,Ooty_Center,Mettupalayam_Hub,42.0,45.0,False,,Good
+2,SH-15 Bhavani River Valley Arterial Road,State Highway,Mettupalayam_Hub,Sathyamangalam_Hub,36.0,55.0,True,Bhavani River Overflow & Bridge Culvert Submergence (Simulated Inundation),Damaged
+3,Kaveri Nagar - Highland Relief Connector,District Arterial,Kaveri_Nagar,Wellington_Shelter,11.5,40.0,False,,Good
+4,Kotagiri - Mettupalayam Ghat Pass,State Highway,Kotagiri_Hub,Mettupalayam_Hub,28.0,40.0,False,,Good
+5,Marappalam - Burliyar Mountain By-Pass,Secondary Ridge Corridor,Coonoor_Hub,Karamadai_Hub,34.0,50.0,False,,Good
+6,Bhavanisagar Dam Lowland Access Causeway,Rural Arterial,Bhavanisagar_Hub,Sathyamangalam_Hub,14.2,35.0,True,Dam Spillway Discharge Waterlogged (1.2m Water Depth),Impassable
+7,Highland Central Ridge Evacuation Spine,Major Ridge Route,Ooty_Center,Kotagiri_Hub,24.5,48.0,False,,Good
+8,Karamadai - Annur High-Capacity Plains Express Route,Express Corridor,Karamadai_Hub,Annur_Hub,19.0,70.0,False,,Good
+9,Gudalur - Ooty Mountain Highway (NH-766 Connection),National Highway,Gudalur_Hub,Ooty_Center,48.0,42.0,False,,Good
+10,Masinagudi - Mudumalai Emergency Evac Track,Forest Emergency Road,Masinagudi_Hub,Ooty_Center,31.0,35.0,False,,Fair

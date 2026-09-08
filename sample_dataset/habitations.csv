@@ -1,0 +1,51 @@
+id,name,district,latitude,longitude,population,vulnerable_population,elderly_count,children_count,disabled_count,rainfall,elevation,slope,river_distance,infrastructure_score,road_accessibility,distance_to_medical,historical_risk,hazard_type,risk_score,risk_level
+1,Kaveri Nagar,Nilgiri Basin - Lowland Sector,11.425,76.782,3850,980,420,460,100,145.0,280.0,3.5,180.0,78.0,32.0,6.8,85.0,Flood,79.9,Very High
+2,Bhavani River Colony,Nilgiri Basin - Lowland Sector,11.438,76.812,2900,740,310,360,70,138.0,265.0,2.1,120.0,82.0,28.0,8.2,88.0,Flood,82.9,Critical
+3,Mettupalayam Ward 7,Bhavani Plains,11.412,76.834,4600,1150,490,550,110,125.0,310.0,4.0,320.0,64.0,55.0,3.4,68.0,Flood,68.2,Very High
+4,Sirumugai Riverside Hamlet,Bhavani Plains,11.449,76.852,2100,580,250,280,50,132.0,255.0,2.0,90.0,75.0,38.0,7.5,79.0,Flood,80.3,Very High
+5,Bhavanisagar Backwater Settlement,Dam Catchment Zone,11.472,76.891,3200,820,340,410,70,155.0,240.0,1.5,60.0,85.0,25.0,11.0,92.0,Flood,87.0,Critical
+6,Thengumarahada Lowlands,Moyar Valley,11.532,76.865,1850,520,210,260,50,140.0,320.0,3.0,150.0,88.0,18.0,14.5,82.0,Flood,84.1,Critical
+7,Alingium Delta Enclave,Lowland Sector,11.401,76.878,2750,690,290,340,60,118.0,270.0,2.5,240.0,58.0,62.0,4.8,60.0,Flood,67.8,Very High
+8,Sathyamangalam Riparian Colony,Downstream Plains,11.488,76.945,5100,1280,540,620,120,122.0,230.0,1.8,190.0,62.0,68.0,3.2,65.0,Flood,69.8,Very High
+9,Pillur Dam Downstream Sector,Gorge Catchment,11.378,76.755,1950,540,220,270,50,165.0,360.0,6.2,110.0,80.0,30.0,9.8,86.0,Flood,81.1,Critical
+10,Nellithurai Riverbank Village,Bhavani Foothills,11.395,76.795,2400,610,260,300,50,135.0,310.0,3.8,160.0,70.0,45.0,5.5,74.0,Flood,75.0,Very High
+11,Coonoor Valley Crest,Nilgiri Upper Ghats,11.353,76.795,3400,890,390,420,80,168.0,1850.0,36.5,620.0,76.0,35.0,4.2,91.0,Landslide,77.0,Very High
+12,Kotagiri Ridge Sector 3,Nilgiri Upper Ghats,11.428,76.862,2800,710,310,340,60,152.0,1790.0,31.0,850.0,70.0,42.0,5.1,84.0,Landslide,68.4,Very High
+13,Marappalam Ghat Slopes,Mountain Corridor,11.368,76.818,1650,480,210,230,40,175.0,1120.0,42.0,450.0,84.0,22.0,8.6,95.0,Landslide,85.2,Critical
+14,Burliyar Slope Settlement,Mountain Corridor,11.362,76.841,1900,530,230,250,50,162.0,860.0,38.0,380.0,79.0,26.0,9.2,90.0,Landslide,82.4,Critical
+15,Katteri Escarpment,Upper Ghats,11.339,76.772,2200,590,260,280,50,158.0,1640.0,34.0,510.0,72.0,39.0,6.4,82.0,Landslide,74.9,Very High
+16,Ketti Valley Terraces,Upper Plateau,11.378,76.732,3600,880,380,430,70,134.0,2100.0,22.0,920.0,52.0,65.0,4.1,58.0,Landslide,54.2,High
+17,Lovedale Hillside Hamlet,Upper Plateau,11.388,76.711,2400,570,250,270,50,128.0,2180.0,26.0,1100.0,48.0,72.0,3.8,52.0,Landslide,52.5,High
+18,Aruvankadu Ridge Colony,Upper Ghats,11.365,76.758,4200,990,430,480,80,142.0,1820.0,24.5,780.0,55.0,68.0,2.9,60.0,Landslide,56.8,High
+19,Kodanad Cliff Hamlet,Eastern Slopes,11.518,76.912,1500,440,190,210,40,148.0,1950.0,39.0,1400.0,81.0,24.0,12.0,87.0,Landslide,74.7,Very High
+20,Kilkundah Gorge Settlement,Southern Valleys,11.305,76.715,1750,510,220,240,50,172.0,1560.0,37.0,420.0,83.0,20.0,10.5,89.0,Landslide,83.5,Critical
+21,Mudumalai Forest Fringe Sector A,Wildlife Buffer Zone,11.582,76.685,1200,360,150,180,30,45.0,920.0,12.0,850.0,77.0,30.0,16.0,81.0,Wildfire,54.0,High
+22,Masinagudi Dry Scrub Hamlet,Wildlife Buffer Zone,11.572,76.745,2100,540,230,260,50,40.0,940.0,14.0,980.0,73.0,38.0,13.5,78.0,Wildfire,50.2,High
+23,Moyar Gorge Interface,Moyar Valley,11.565,76.815,1400,390,170,190,30,38.0,880.0,18.0,650.0,80.0,27.0,15.2,83.0,Wildfire,57.2,High
+24,Siriyur Tribal Settlement,Eastern Forest Sector,11.542,76.928,950,290,120,140,30,42.0,780.0,15.0,1200.0,86.0,16.0,18.0,85.0,Wildfire,56.7,High
+25,Bhavani Grassland Interface,Dry Foothills,11.505,76.975,1600,410,180,200,30,52.0,420.0,8.0,1400.0,65.0,50.0,8.5,66.0,Wildfire,44.7,High
+26,Ooty Town Center West,Highland Urban,11.411,76.695,8500,1850,820,910,120,92.0,2240.0,10.5,1600.0,28.0,92.0,1.2,25.0,Flood,35.3,Moderate
+27,Ooty Charing Cross,Highland Urban,11.416,76.71,7200,1580,690,780,110,88.0,2210.0,8.0,1800.0,24.0,95.0,0.8,20.0,Flood,33.7,Moderate
+28,Fingerpost Plateau,Highland Urban,11.428,76.681,5400,1190,520,580,90,95.0,2260.0,9.2,2100.0,32.0,88.0,2.1,28.0,Landslide,31.5,Moderate
+29,Wellington Cantonment Heights,Cantonment Zone,11.368,76.788,6100,1100,480,540,80,105.0,1860.0,12.0,1300.0,20.0,96.0,1.5,22.0,Landslide,32.0,Moderate
+30,Karamadai Elevated Hub,Plains Foothills,11.245,76.958,9400,2100,930,1020,150,68.0,350.0,2.0,2800.0,30.0,94.0,2.4,18.0,Flood,36.7,Moderate
+31,Manjoor Valley Hamlet,Kundah Sector,11.285,76.685,2300,620,270,290,60,160.0,1780.0,33.0,310.0,75.0,34.0,7.8,83.0,Landslide,78.4,Very High
+32,Emerald Lake Shore,Kundah Sector,11.328,76.625,2700,690,300,330,60,148.0,1980.0,19.0,180.0,62.0,48.0,8.5,64.0,Flood,64.2,Very High
+33,Avalanche Valley Settlement,Kundah Sector,11.292,76.592,1800,520,230,240,50,185.0,2040.0,38.5,220.0,84.0,21.0,12.5,94.0,Landslide,88.3,Critical
+34,Glenmorgan Tea Estate,North Plateau,11.472,76.645,2100,530,230,250,50,135.0,2120.0,28.0,680.0,66.0,44.0,9.2,71.0,Landslide,65.1,Very High
+35,Pykara Basin Colony,North Plateau,11.458,76.602,2950,760,330,370,60,142.0,2080.0,16.0,210.0,58.0,58.0,10.8,68.0,Flood,62.9,Very High
+36,Gudalur Border Township,Gudalur Valley,11.505,76.495,6800,1650,720,810,120,170.0,950.0,24.0,350.0,72.0,52.0,3.6,86.0,Landslide,71.4,Very High
+37,Devala Gold Mine Slopes,Gudalur Valley,11.478,76.388,3100,840,360,410,70,195.0,920.0,35.0,400.0,82.0,32.0,6.8,96.0,Landslide,82.3,Critical
+38,Pandalur Tea Hamlet,Gudalur Valley,11.489,76.338,2500,670,290,320,60,182.0,890.0,32.0,480.0,78.0,36.0,8.1,90.0,Landslide,77.7,Very High
+39,Naduvattam Ghat Sector,Ghat Corridor,11.482,76.545,2200,580,250,280,50,178.0,1880.0,36.0,590.0,76.0,35.0,7.4,89.0,Landslide,77.5,Very High
+40,Cherambadi Valley,Gudalur Valley,11.528,76.295,3400,890,390,430,70,188.0,840.0,30.0,290.0,80.0,30.0,9.5,93.0,Flood,70.9,Very High
+41,Denad Agro Enclave,Kotagiri Sector,11.465,76.92,1950,480,210,230,40,126.0,1620.0,25.0,890.0,60.0,54.0,5.8,62.0,Landslide,57.9,High
+42,Ketti Lower Railway Colony,Upper Plateau,11.372,76.745,2900,690,300,330,60,130.0,2040.0,21.0,740.0,50.0,70.0,3.2,54.0,Landslide,53.0,High
+43,Bikhatti Village Hub,Kundah Sector,11.315,76.748,2600,640,280,310,50,144.0,1720.0,27.0,580.0,68.0,46.0,6.9,72.0,Landslide,66.7,Very High
+44,Sholur Terraces,North Plateau,11.512,76.715,2150,540,240,260,40,110.0,1820.0,23.0,920.0,56.0,60.0,8.0,57.0,Landslide,53.6,High
+45,Hullathy Riverside Enclave,North Plateau,11.488,76.732,1850,460,200,220,40,118.0,1890.0,18.0,410.0,54.0,64.0,6.5,53.0,Flood,53.6,High
+46,Bhavanisagar West Fishery Colony,Dam Catchment Zone,11.465,76.872,2450,650,280,310,60,149.0,245.0,1.8,80.0,83.0,29.0,10.2,91.0,Flood,85.3,Critical
+47,Annur High Plain Enclave,Eastern Plains,11.232,77.108,8900,1950,860,940,150,55.0,320.0,1.2,3800.0,25.0,95.0,1.8,15.0,Flood,33.6,Moderate
+48,Dhimbam Ghat Hairpin Sector,Sathyamangalam Hills,11.642,77.012,1600,470,210,220,40,140.0,1050.0,38.0,850.0,81.0,26.0,14.0,88.0,Landslide,75.3,Very High
+49,Thalavadi Forest Fringe,Sathyamangalam Plateau,11.725,76.995,2900,720,310,350,60,60.0,820.0,8.0,1900.0,68.0,45.0,11.2,65.0,Wildfire,44.6,High
+50,Bannari Temple Foothill Settlement,Sathyamangalam Plains,11.545,77.085,3700,860,370,420,70,75.0,310.0,3.0,2200.0,38.0,85.0,4.5,32.0,Flood,41.3,High

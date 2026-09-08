@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "name": "NH-181 Ooty - Coonoor - Mettupalayam Highway",
+    "road_type": "National Highway",
+    "start_node": "Ooty_Center",
+    "end_node": "Mettupalayam_Hub",
+    "geometry": [
+      [
+        11.411,
+        76.695
+      ],
+      [
+        11.378,
+        76.732
+      ],
+      [
+        11.368,
+        76.788
+      ],
+      [
+        11.353,
+        76.795
+      ],
+      [
+        11.368,
+        76.818
+      ],
+      [
+        11.362,
+        76.841
+      ],
+      [
+        11.398,
+        76.845
+      ],
+      [
+        11.412,
+        76.834
+      ]
+    ],
+    "length_km": 42.0,
+    "base_speed_kmh": 45.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 2,
+    "name": "SH-15 Bhavani River Valley Arterial Road",
+    "road_type": "State Highway",
+    "start_node": "Mettupalayam_Hub",
+    "end_node": "Sathyamangalam_Hub",
+    "geometry": [
+      [
+        11.412,
+        76.834
+      ],
+      [
+        11.425,
+        76.782
+      ],
+      [
+        11.438,
+        76.812
+      ],
+      [
+        11.449,
+        76.852
+      ],
+      [
+        11.472,
+        76.891
+      ],
+      [
+        11.488,
+        76.945
+      ],
+      [
+        11.512,
+        76.965
+      ]
+    ],
+    "length_km": 36.0,
+    "base_speed_kmh": 55.0,
+    "is_blocked": true,
+    "blockage_reason": "Bhavani River Overflow & Bridge Culvert Submergence (Simulated Inundation)",
+    "road_condition": "Damaged"
+  },
+  {
+    "id": 3,
+    "name": "Kaveri Nagar - Highland Relief Connector",
+    "road_type": "District Arterial",
+    "start_node": "Kaveri_Nagar",
+    "end_node": "Wellington_Shelter",
+    "geometry": [
+      [
+        11.425,
+        76.782
+      ],
+      [
+        11.395,
+        76.795
+      ],
+      [
+        11.385,
+        76.775
+      ],
+      [
+        11.372,
+        76.792
+      ]
+    ],
+    "length_km": 11.5,
+    "base_speed_kmh": 40.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 4,
+    "name": "Kotagiri - Mettupalayam Ghat Pass",
+    "road_type": "State Highway",
+    "start_node": "Kotagiri_Hub",
+    "end_node": "Mettupalayam_Hub",
+    "geometry": [
+      [
+        11.428,
+        76.862
+      ],
+      [
+        11.432,
+        76.875
+      ],
+      [
+        11.401,
+        76.878
+      ],
+      [
+        11.398,
+        76.845
+      ]
+    ],
+    "length_km": 28.0,
+    "base_speed_kmh": 40.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 5,
+    "name": "Marappalam - Burliyar Mountain By-Pass",
+    "road_type": "Secondary Ridge Corridor",
+    "start_node": "Coonoor_Hub",
+    "end_node": "Karamadai_Hub",
+    "geometry": [
+      [
+        11.353,
+        76.795
+      ],
+      [
+        11.339,
+        76.772
+      ],
+      [
+        11.305,
+        76.715
+      ],
+      [
+        11.245,
+        76.958
+      ],
+      [
+        11.251,
+        76.962
+      ]
+    ],
+    "length_km": 34.0,
+    "base_speed_kmh": 50.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 6,
+    "name": "Bhavanisagar Dam Lowland Access Causeway",
+    "road_type": "Rural Arterial",
+    "start_node": "Bhavanisagar_Hub",
+    "end_node": "Sathyamangalam_Hub",
+    "geometry": [
+      [
+        11.472,
+        76.891
+      ],
+      [
+        11.465,
+        76.872
+      ],
+      [
+        11.488,
+        76.945
+      ],
+      [
+        11.512,
+        76.965
+      ]
+    ],
+    "length_km": 14.2,
+    "base_speed_kmh": 35.0,
+    "is_blocked": true,
+    "blockage_reason": "Dam Spillway Discharge Waterlogged (1.2m Water Depth)",
+    "road_condition": "Impassable"
+  },
+  {
+    "id": 7,
+    "name": "Highland Central Ridge Evacuation Spine",
+    "road_type": "Major Ridge Route",
+    "start_node": "Ooty_Center",
+    "end_node": "Kotagiri_Hub",
+    "geometry": [
+      [
+        11.411,
+        76.695
+      ],
+      [
+        11.416,
+        76.71
+      ],
+      [
+        11.428,
+        76.862
+      ],
+      [
+        11.432,
+        76.875
+      ]
+    ],
+    "length_km": 24.5,
+    "base_speed_kmh": 48.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 8,
+    "name": "Karamadai - Annur High-Capacity Plains Express Route",
+    "road_type": "Express Corridor",
+    "start_node": "Karamadai_Hub",
+    "end_node": "Annur_Hub",
+    "geometry": [
+      [
+        11.245,
+        76.958
+      ],
+      [
+        11.251,
+        76.962
+      ],
+      [
+        11.232,
+        77.108
+      ],
+      [
+        11.238,
+        77.112
+      ]
+    ],
+    "length_km": 19.0,
+    "base_speed_kmh": 70.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 9,
+    "name": "Gudalur - Ooty Mountain Highway (NH-766 Connection)",
+    "road_type": "National Highway",
+    "start_node": "Gudalur_Hub",
+    "end_node": "Ooty_Center",
+    "geometry": [
+      [
+        11.505,
+        76.495
+      ],
+      [
+        11.482,
+        76.545
+      ],
+      [
+        11.458,
+        76.602
+      ],
+      [
+        11.472,
+        76.645
+      ],
+      [
+        11.428,
+        76.681
+      ],
+      [
+        11.411,
+        76.695
+      ]
+    ],
+    "length_km": 48.0,
+    "base_speed_kmh": 42.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Good"
+  },
+  {
+    "id": 10,
+    "name": "Masinagudi - Mudumalai Emergency Evac Track",
+    "road_type": "Forest Emergency Road",
+    "start_node": "Masinagudi_Hub",
+    "end_node": "Ooty_Center",
+    "geometry": [
+      [
+        11.572,
+        76.745
+      ],
+      [
+        11.512,
+        76.715
+      ],
+      [
+        11.488,
+        76.732
+      ],
+      [
+        11.416,
+        76.71
+      ],
+      [
+        11.418,
+        76.715
+      ]
+    ],
+    "length_km": 31.0,
+    "base_speed_kmh": 35.0,
+    "is_blocked": false,
+    "blockage_reason": "",
+    "road_condition": "Fair"
+  }
+]

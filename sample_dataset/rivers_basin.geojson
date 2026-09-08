@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhavani River Main Channel",
+        "flow_rate": "High - 450 m3/s",
+        "risk_tier": "Critical Flood Zone",
+        "color": "#0284c7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.72,
+            11.38
+          ],
+          [
+            76.755,
+            11.378
+          ],
+          [
+            76.782,
+            11.425
+          ],
+          [
+            76.812,
+            11.438
+          ],
+          [
+            76.852,
+            11.449
+          ],
+          [
+            76.891,
+            11.472
+          ],
+          [
+            76.945,
+            11.488
+          ],
+          [
+            76.98,
+            11.51
+          ],
+          [
+            77.05,
+            11.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moyar River Gorge Stream",
+        "flow_rate": "Rapid Inflow - 280 m3/s",
+        "risk_tier": "High Flood Zone",
+        "color": "#0ea5e9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.58,
+            11.57
+          ],
+          [
+            76.685,
+            11.582
+          ],
+          [
+            76.745,
+            11.572
+          ],
+          [
+            76.815,
+            11.565
+          ],
+          [
+            76.865,
+            11.532
+          ],
+          [
+            76.891,
+            11.472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pykara River Basin",
+        "flow_rate": "Normal - 90 m3/s",
+        "risk_tier": "Moderate Risk",
+        "color": "#38bdf8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.592,
+            11.292
+          ],
+          [
+            76.625,
+            11.328
+          ],
+          [
+            76.602,
+            11.458
+          ],
+          [
+            76.645,
+            11.472
+          ]
+        ]
+      }
+    }
+  ]
+}

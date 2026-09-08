@@ -1,0 +1,32 @@
+{
+  "dataset_name": "SURAKSHA-AI Disaster Intelligence Demo & Simulation Benchmark",
+  "region": "Nilgiri-Bhavani River Basin, Tamil Nadu / Western Ghats",
+  "total_habitations": 50,
+  "total_population": 160800,
+  "total_vulnerable_population": 39520,
+  "vulnerability_ratio_pct": 24.6,
+  "risk_classification": {
+    "Critical": 10,
+    "Very High": 20,
+    "High": 14,
+    "Moderate": 6,
+    "Low": 0
+  },
+  "hazard_breakdown": {
+    "Flood": 20,
+    "Landslide": 24,
+    "Wildfire": 6
+  },
+  "shelters": {
+    "count": 10,
+    "total_capacity": 24100,
+    "current_occupancy": 5950,
+    "available_capacity": 18150,
+    "occupancy_rate_pct": 24.7
+  },
+  "road_network": {
+    "total_segments": 10,
+    "blocked_segments": 2,
+    "operational_segments": 8
+  }
+}
